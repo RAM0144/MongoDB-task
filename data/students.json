@@ -1,0 +1,28 @@
+
+[
+    {
+        "name": "ram",
+        "email": "ram@gmail.com",
+        "course": "MERN Stack"
+  
+    },
+    {
+        "name": "saran",
+        "email": "saran@gmail.com",
+        "course": "MERN Stack"
+       
+    },
+    {
+        "name": "mani",
+        "email": "mani@gmail.com",
+        "course": "MERN Stack"
+     
+    },
+    {
+        "name": "prathap",
+        "email": "prathap@gmail.com",
+        "course": "MERN Stack"
+   
+    }
+]
+

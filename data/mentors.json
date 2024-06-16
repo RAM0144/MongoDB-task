@@ -1,0 +1,39 @@
+[
+    {
+        "name": "sathish",
+        "email": "sathish@gmail.com",
+        "course": "MERN",
+        "mentees": 20
+    },
+    {
+        "name": "Sanjay",
+        "email": "sanjay@gmail.com",
+        "course": "MERN",
+        "mentees": 25
+    },
+    {
+        "name": "sarath",
+        "email": "sarathh@gmail.com",
+        "course": "MERN",
+        "mentees": 18
+    },
+    {
+        "name": "karthik",
+        "email": "karthik@gmail.com",
+        "course": "MERN",
+        "mentees": 10
+    },
+    {
+        "name": "Ram",
+        "email": "ram@gmail.com",
+        "course": "MERN",
+        "mentees": 12
+    },
+    {
+        "name": "saravanan",
+        "email": "sathish@gmail.com",
+        "course": "MERN",
+        "mentees": 20
+    }
+
+]

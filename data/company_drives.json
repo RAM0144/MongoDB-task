@@ -1,0 +1,33 @@
+[
+    {
+        "company": "TCS",
+        "date": "16-OCT-2020",
+        "email": "ram@gmail.com"
+    },
+    {
+        "company": "MicroSoft",
+        "date": "15-OCT-2020",
+        "email": "saran@gmail.com"
+    },
+    {
+        "company": "Amazon",
+        "date": "18-OCT-2020",
+        "email": "prathap@gmail.com"
+    },
+    {
+        "company": "HCL",
+        "date": "21-OCT-2020",
+        "email": "madhu@gmail.com"
+    },
+    {
+        "company": "Infosys",
+        "date": "26-OCT-2020",
+        "email": "mani@gmail.com"
+    },
+    {
+        "company": "Tech Mahindra",
+        "date": "31-OCT-2020",
+        "email": "vasanth@gmail.com"
+    }
+
+]
